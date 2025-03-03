@@ -1,2 +1,2 @@
 # JiraApiTesting
-Testing Jira operations
+Testing Jira operations with RestAssured library
